@@ -1,0 +1,4 @@
+fit.m 为函数拟合代码
+PiecewiseLinearInterpolation 为分段线性插值代码
+Cubic_Spline_Interpolation为三次样条插值代码
+Quadratic_Interpolation为分段二次插值代码
